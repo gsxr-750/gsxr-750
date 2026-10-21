@@ -1,7 +1,4 @@
 
 <div align="center">
-  <img src="assets/banner.gif" alt="Animated portfolio banner" width="100%" />
+  <img src="./snaptik_7698000569796971794_v3.gif" width="100%" alt=" " />
 </div>
-
----
-
